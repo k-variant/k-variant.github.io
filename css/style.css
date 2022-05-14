@@ -1,0 +1,68 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    width: 666px;
+    margin: 0% auto;
+    overflow: auto;
+}
+
+#mug {
+    width: 228px;
+    height: 240px;
+    border-radius: 2%;
+}
+
+#art {
+    width: 666px;
+    height: 228px;
+    border-radius: 2%;
+}
+
+#data {
+    width: 444px;
+}
+
+html {
+    overflow: scroll;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 11pt;
+    margin: 10px;
+    font-weight: 400;
+}
+
+div.unit {
+    width: 666px;
+    margin: 0% auto; margin-top: 10px; 
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: #000000;
+}
+
+h1 {
+    color: #000000;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+h2 {
+    color: #000000;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+marquee {
+    width: 666px;
+}
+
